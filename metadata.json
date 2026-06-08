@@ -1,0 +1,6 @@
+{
+  "name": "Mobile UI Canvas Designer",
+  "description": "Convert plain text into fully interactive, customizable mobile UI designs on a vector canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
